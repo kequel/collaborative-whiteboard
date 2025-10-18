@@ -72,8 +72,7 @@ java -cp gson.jar;. Client
 Each connected client will be assigned a unique ID and see all real-time updates on the shared canvas.
 
 ## Example
-Collaborative session with visible local (green) and remote (red) cursors:
+### Collaborative session with visible local (green) and remote (red) cursors:
 ![prtsc](prtsc.png)
-
-Exported image:
+### Exported image:
 ![tablica.jpg](tablica.jpg)
