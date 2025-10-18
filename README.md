@@ -36,7 +36,7 @@ Amile Amarasekara, Martyna Borkowska, Kacper Doga, Agnieszka Pawłowska, Dawid W
 | `CanvasChangeCompressed.java`       | Compressed representation of grouped drawing changes (bitmask-based).                 |
 | `ChangeBuffer.java`                 | Buffers server-side changes and periodically sends compressed updates to clients.     |
 | `CursorPosition.java`, `Point.java` | Utility classes for cursor and pixel position management.                             |
-| `sprawozdanie.pdf`                  | Full project report in Polish describing design, implementation, and testing.         |
+| `report_PL.pdf`                  | Full project report in Polish describing design, implementation, and testing.         |
 
 
 ## Future Development Ideas
